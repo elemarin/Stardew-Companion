@@ -1,0 +1,47 @@
+{
+  "bundles": [
+    {
+      "name": "Pecera",
+      "lots": [
+        {
+          "lot": "Lote Peces Fluviales",
+          "reward": "Cebo",
+          "items": [
+            {
+                "name": "Pez sol",
+                "place": "Rios",
+                "time": "6:00 AM–7:00 PM",
+                "season": "Primavera y Verano",
+                "weather": "Soleado",
+                "image": "pez_sol.png"
+            },
+            {
+                "name": "Pez gato",
+                "place": "Rios y Bosque Secreto",
+                "time": "6:00 AM hasta la media noche",
+                "season": "Primavera y Otoño",
+                "weather": "Lluvioso",
+                "image": "pez_gato.png"
+            },
+            {
+                "name": "Sábalo",
+                "place": "Rios",
+                "time": "9:00 AM hasta las 2:00 AM",
+                "season": "Primavera, Verano y Otoño",
+                "weather": "Lluvioso",
+                "image": "sabalo.png"
+            },
+            {
+                "name": "Trucha tigre",
+                "place": "Rios",
+                "time": "6:00 AM–7:00 PM",
+                "season": "Otoño e Invierno",
+                "weather": "Any",
+                "image": "trucha_tigre.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
