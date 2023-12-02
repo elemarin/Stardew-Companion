@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stardew-companion/static/css/main.4b0bfdcc.css",
+    "main.js": "/stardew-companion/static/js/main.791089b5.js",
+    "static/js/787.6f948e69.chunk.js": "/stardew-companion/static/js/787.6f948e69.chunk.js",
+    "static/media/background.jpeg": "/stardew-companion/static/media/background.9953c3eece9a5db09c45.jpeg",
+    "index.html": "/stardew-companion/index.html",
+    "main.4b0bfdcc.css.map": "/stardew-companion/static/css/main.4b0bfdcc.css.map",
+    "main.791089b5.js.map": "/stardew-companion/static/js/main.791089b5.js.map",
+    "787.6f948e69.chunk.js.map": "/stardew-companion/static/js/787.6f948e69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b0bfdcc.css",
+    "static/js/main.791089b5.js"
+  ]
+}
